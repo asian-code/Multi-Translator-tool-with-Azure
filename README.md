@@ -1,0 +1,1 @@
+# Multi-Translator-tool-with-Azure
